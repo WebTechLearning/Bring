@@ -1,10 +1,10 @@
-index
-+-- search
-    +-- result
-+-- account
-    +-- personal infomation
-    +-- my list
-        +-- edit list
+﻿index                            # 首頁
++-- search                       # 首頁輸入地點後進入，需要使用者提供更多關於旅程資訊
+    +-- result                   # 攜帶物品清單
++-- personal home page           # 已登入的使用者可以使用的首頁，可以管理個人清單與資料
+    +-- personal infomation      # 個人資訊及編輯
+    +-- my list                  # 管理個人清單
+        +-- edit list            # 編輯清單
 +-- login
     +-- regist
     +-- forget password
